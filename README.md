@@ -13,6 +13,6 @@ This project recreates the classic board game _The Settlers of Catan_, featuring
 - Clean, modular Python codebase suitable for both gameplay and AI experimentation
 
 ## Project Goals
-- Deliver a faithful digital version of The Settlers of Catan
+- Deliver a faithful digital version of _The Settlers of Catan_
 - Provide a sandbox for experimenting with reinforcement learning in board games
 - Create a fun and challenging singleplayer experience through intelligent AI opponents
